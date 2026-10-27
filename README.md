@@ -212,4 +212,4 @@ LightScribe System Software is offered as a full free version, providing you wit
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-27 01:06:52 UTC
+**Last updated:** 2026-10-27 07:16:46 UTC
